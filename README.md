@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Manavi Ghorpade 
 - 🌱 I’m currently learning Machine Learing, Computer vision,Operating System
-- 📫 How to reach me - mughorpade@mail.csuchico.edu
 
 <!---
 Manavi-ghorpade/Manavi-ghorpade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
