@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Manavi Uttam Ghorpade 
 
-- 🌱 I’m currently learning __Machine Learing, Computer vision, Operating System, Full stack web devlopement, Algorithms and complexity
+- 🌱 I’m currently learning __Cloud Computing, Swift, Full stack web devlopement, Algorithms and complexity
 - 💬 Ask me about __Cloud Engineering (AWS), CI/CD, Software Devlopment, Solution architect__
+- 📫 How to reach me: mughorpade@csuchico.edu
 
 <!---
 Manavi-ghorpade/Manavi-ghorpade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<style>
 
 ### My publications:
 
@@ -97,6 +97,27 @@ You can click the Preview link to take a look at your changes.
             <a href=""><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" width="70" height="40"/></a>
             <a href=""><img src="https://github.com/todogroup/todogroup.org/blob/main/static/img/logo_vmware.svg" width="70" height="40"/></a>
             <!-- <a href=""><img src="https://worldvectorlogo.com/download/sublime-text.svg"/></a> -->
+        </td>
+    </tr>
+</table>
+
+### My GitHub Stats
+
+<table>
+    <tr>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=Manavi-ghorpade&row=3&column=4&no-bg=true"/>
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manavi-ghorpade"/>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=Manavi-ghorpade&count_private=true&show_icons=true&theme=tokyonight"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manavi-ghorpade&langs_count=10&layout=compact&hide=php,scss,gherkin,freemarker,xslt,tsql,ruby"/>
         </td>
     </tr>
 </table>
