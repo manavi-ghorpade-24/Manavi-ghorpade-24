@@ -19,7 +19,6 @@ You can click the Preview link to take a look at your changes.
         <td>Programming Languages</td>
         <td>
            <a href=""><img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" width="40" height="40"/></a>
-           
             <a href=""><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vagrant/vagrant-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" width="40" height="40"/></a>
