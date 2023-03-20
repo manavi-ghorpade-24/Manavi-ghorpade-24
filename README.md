@@ -9,17 +9,22 @@ Manavi-ghorpade/Manavi-ghorpade is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-### My publications:
+
+<h2> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" /> Portfolio</h2>
+<a  width="50" height="40" href="https://manavi-ghorpade.github.io/manavighorpade.github.io/" >Portfolio</a><br>
+ 
+
+<h2><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" /> My publications</h2>
 
 <a href="https://drive.google.com/file/d/1fXTJ9Tna1_NqO3hJ5v2nVvtSry0n99-k/view" >Diabetes Detection System</a><br>
 <a href="https://www.ijcseonline.org/pdf_paper_view.php?paper_id=5280&11-IJCSE-08441.pdf%20" style="color: red;">A Doctor's Appointment Booking System using Recommendation Model</a>
 
-### Contact me:
+<h2> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" />Contact me </h2>
 <a href="https://www.linkedin.com/in/manavi-ghorpade-31a0751a8/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="50" height="50"/></a>
 <a href="https://www.instagram.com/manavi_ghorpade/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="50" height="50"/></a>
 
 
-### TECHNICAL SKILL
+<h2> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" />Technical Skills </h2>
 
 <table>
     <tr>
@@ -101,7 +106,7 @@ You can click the Preview link to take a look at your changes.
     </tr>
 </table>
 
-### My GitHub Stats
+<h2> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" />My GitHub Stats </h2>
 
 <table>
     <tr>
