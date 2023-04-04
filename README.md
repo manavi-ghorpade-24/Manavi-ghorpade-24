@@ -22,7 +22,8 @@ You can click the Preview link to take a look at your changes.
 <h2> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" />Contact me </h2>
 <a href="https://www.linkedin.com/in/manavi-ghorpade-31a0751a8/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="50" height="50"/></a>
 <a href="https://www.instagram.com/manavi_ghorpade/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="50" height="50"/></a>
-🇮![visitors](https://visitor-badge.glitch.me/badge?page_id=Manavi-ghorpade/Manavi-ghorpade)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Manavi-ghorpade/Manavi-ghorpade)
 
 <h2> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" />Technical Skills </h2>
 
