@@ -10,168 +10,118 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# <h2> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" /> Highlights </h2>
-- Added Feed Component Testing for Frontend (https://github.com/ChicoState/PantryNode/pull/229) - I was responsible for testing the Feed component, which plays a critical role in the project's Frontend. My contribution involved writing test cases to ensure the accurate rendering of both about-to-expire and expired items.
-My testing efforts ensured that the Feed component aligned with the project's requirements and consistently delivered the expected results.
-- Resolved Dependabot security and update issues (https://github.com/ChicoState/PantryNode/pull/39) - Worked closely with the development team, we collectively vetted and approved each backlogged Dependabot pull request (PR) individually to ensure that the updates didn't introduce regressions or any other issues. This contribution improves the Project's security and stability by keeping the project's dependencies up to date and mitigating potential vulnerabilities.
-- Coordinated and worked with the Testing team (https://github.com/ChicoState/PantryNode/pull/219) - I collaborated with the Testing team, reviewing their test cases and providing feedback on areas for improvement. 
+<h2> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" /> Portfolio</h2>
+<a  width="50" height="40" href="https://manavi-ghorpade.github.io/manavighorpade.github.io/" >Portfolio</a><br>
  
-#<h2> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" /> Timeline </h2>
-### Sprint 1 (February 28 - March 20)
+
+<h2><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" /> My publications</h2>
+
+<a href="https://drive.google.com/file/d/1fXTJ9Tna1_NqO3hJ5v2nVvtSry0n99-k/view" >Diabetes Detection System</a><br>
+<a href="https://www.ijcseonline.org/pdf_paper_view.php?paper_id=5280&11-IJCSE-08441.pdf%20" style="color: red;">A Doctor's Appointment Booking System using Recommendation Model</a>
+
+<h2> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" />Contact me </h2>
+<a href="https://www.linkedin.com/in/manavi-ghorpade-31a0751a8/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="50" height="50"/></a>
+<a href="https://www.instagram.com/manavi_ghorpade/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="50" height="50"/></a>
+
+<h2> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" />Technical Skills </h2>
+
 <table>
     <tr>
-        <th>Type</th>
-        <th>Link</th>
-        <th>Notes</th>
+        <td>Programming Languages</td>
+        <td>
+           <a href=""><img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" width="70" height="40"/></a>
+        </td>
     </tr>
     <tr>
-        <td> Code Review  & Discussion</td>
-        <td>https://github.com/ChicoState/PantryNode/pull/2 </td>
-        <td> Approved and reviewed update of Bump bl from 2.2.0 to 2.2.1</td>
-    </tr>
-  <tr>
-        <td> Code Review  & Discussion</td>
-        <td>https://github.com/ChicoState/PantryNode/pull/3</td>
-        <td> Reviewed update of Bump ini from 1.3.5 to 1.3.8</td>
-    </tr>
-  <tr>
-        <td> Code Review  & Discussion</td>
-        <td>https://github.com/ChicoState/PantryNode/pull/4</td>
-        <td> Reviewed update of Bump lodash from 4.17.15 to 4.17.21</td>
-    </tr>
-  <tr>
-        <td> Code Review  & Discussion</td>
-        <td>https://github.com/ChicoState/PantryNode/pull/5</td>
-        <td> Reviewed update of Bump normalize-url from 4.5.0 to 4.5.1</td>
-    </tr>
-   <tr>
-        <td> Code Review  & Discussion</td>
-        <td>https://github.com/ChicoState/PantryNode/pull/6</td>
-        <td> Reviewed update of Bump glob-parent from 5.1.1 to 5.1.2</td>
-    </tr>
-  <tr>
-        <td> Code Review  & Discussion</td>
-        <td>https://github.com/ChicoState/PantryNode/pull/8</td>
-        <td> Reviewed the update of the bump tar from 4.4.13 to 4.4.19</td>
-    </tr>
-  <tr>
-        <td> Code Review  & Discussion</td>
-        <td>https://github.com/ChicoState/PantryNode/pull/10</td>
-        <td>Reviewed the update of Bump qs, body-parser and express</td>
+        <td>Library and Framework</td>
+        <td>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" width="70" height="40"/></a>
+        </td>
     </tr>
     <tr>
-        <td> Code Review  & Discussion</td>
-        <td>https://github.com/ChicoState/PantryNode/pull/12</td>
-        <td>Closed PR for Update of Bump mongoose from 5.9.11 to 5.13.15</td>
+        <td>CI/CD</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="70" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>SysOps</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/docker/docker-original.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/kubernetes/kubernetes-plain.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/linux/linux-original.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/ubuntu/ubuntu-plain.svg" width="70" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Cloud Platforms</td>
+        <td>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" width="70" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Databases/Datastores</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mongodb/mongodb-original.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/oracle/oracle-original.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" width="70" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Tools</td>
+        <td>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/pycharm/pycharm-original.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" width="70" height="40"/></a>
+            <a href=""><img src="https://github.com/todogroup/todogroup.org/blob/main/static/img/logo_vmware.svg" width="70" height="40"/></a>
+            <!-- <a href=""><img src="https://worldvectorlogo.com/download/sublime-text.svg"/></a> -->
+        </td>
     </tr>
 </table>
 
-### Sprint 2 (March 21 - April 3)
-<table>
-    <tr>
-        <th>Type</th>
-        <th>Link</th>
-        <th>Notes</th>
-    </tr>
-    <tr>
-        <td>Commit</td>
-        <td>https://github.com/ChicoState/PantryNode/pull/39</td>
-        <td>
-         Updated Bump minimist from 1.2.5 to 1.2.8 into main 
-        </td>
-    </tr>
-    <tr>
-        <td>Research  & Discussion</td>
-        <td>https://github.com/ChicoState/PantryNode/issues/20</td>
-        <td> Research regarding the difference in package.json and package-lock.json with team members- Manohar Mendan, Rohot Raut, Sachin Prasad</td>
-    </tr>
-</table>
+<h2> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" />My GitHub Stats </h2>
 
-### Sprint 3 (April 4 - April 17)
 <table>
     <tr>
-        <th>Type</th>
-        <th>Link</th>
-        <th>Notes</th>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=Manavi-ghorpade&row=3&column=4&no-bg=true"/>
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manavi-ghorpade"/>
+        </td> 
     </tr>
     <tr>
-        <td>Code Review</td>
-        <td>https://github.com/ChicoState/PantryNode/pull/17</td>
-      <td>We have upgraded the bcrypt version to 5.0.0, which has resolved the known security vulnerability.</td>
-    </tr>
-  <tr>
-        <td>Code Review</td>
-        <td>https://github.com/ChicoState/PantryNode/pull/86</td>
-      <td>Reviewed update of Bump minimatch from 3.0.4 to 3.0.8</td>
-    </tr>
-   <tr>
-        <td>Code Review</td>
-        <td>https://github.com/ChicoState/PantryNode/pull/107</td>
-      <td>Reviewed update of Bump bcrypt from 4.0.1 to 5.0.0 in /backend </td>
-    </tr>
-  
-    
-</table>
-
-### Sprint 4 (April 18 - May 1)
-<table>
-    <tr>
-        <th>Type</th>
-        <th>Link</th>
-        <th>Notes</th>
-    </tr>
-    <tr>
-        <td>Commit</td>
         <td>
-           https://github.com/ChicoState/PantryNode/pull/219
+            <img src="https://github-readme-stats.vercel.app/api?username=Manavi-ghorpade&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
-      <td> Added comments for better understanding of test cases and reviewed code</td>
-    </tr>
-    
-</table>
-
-### Sprint 5 (May 2 - May 15)
-<table>
-    <tr>
-        <th>Type</th>
-        <th>Link</th>
-        <th>Notes</th>
-    </tr>
-   <tr>
-        <td>Commit</td>
         <td>
-           https://github.com/ChicoState/PantryNode/pull/219
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manavi-ghorpade&langs_count=10&layout=compact&hide=php,scss,gherkin,freemarker,xslt,tsql,ruby"/>
         </td>
-      <td>Added test cases for feed component to ensure the accurate rendering of both about-to-expire and expired items </td>
     </tr>
-    <tr>
-        <td>Bug logging and troubleshooting</td>
-        <td>
-           https://github.com/ChicoState/PantryNode/issues/241
-        </td>
-      <td>Reviewed bug </td>
-    </tr>
-  
-   <tr>
-        <td>Code Review</td>
-        <td>
-           https://github.com/ChicoState/PantryNode/pull/243
-        </td>
-      <td>Reviewed the changes in code</td>
-    </tr>
-    <tr>
-        <td>Code Review</td>
-        <td>
-           https://github.com/ChicoState/PantryNode/pull/245
-        </td>
-      <td>Reviewed and approved the test case for header component</td>
-    </tr>
-  <tr>
-        <td>Code Review</td>
-        <td>
-           https://github.com/ChicoState/PantryNode/pull/248
-        </td>
-      <td>Reviewed the test case for Expiry table</td>
-    </tr>
-    
 </table>
