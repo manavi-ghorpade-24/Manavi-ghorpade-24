@@ -11,8 +11,13 @@ You can click the Preview link to take a look at your changes.
 
 
 <h2> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" /> Highlights </h2>
-[Added Feed Component Testing for Frontend](https://github.com/ChicoState/PantryNode/pull/229)
-I was responsible for testing the Feed component. The Feed component is a crucial part of the project's Frontend, responsible for rendering and displaying items based on their expiration dates. My contribution involved writing test cases to ensure that the component accurately renders both about-to-expire and expired items.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" alt="Kyubey" />
+</p>
+- [Added Feed Component Testing for Frontend](https://github.com/ChicoState/PantryNode/pull/229)
+I was responsible for testing the Feed component, which plays a critical role in the project's Frontend. My contribution involved writing test cases to ensure the accurate rendering of both about-to-expire and expired items.
+My testing efforts ensured that the Feed component aligned with the project's requirements and consistently delivered the expected results.
+
  
 
 <h2><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" /> Timeline </h2>
