@@ -25,42 +25,42 @@ My testing efforts ensured that the Feed component aligned with the project's re
         <th>Notes</th>
     </tr>
     <tr>
-        <td> Code Review</td>
+        <td> Code Review  & Discussion</td>
         <td>https://github.com/ChicoState/PantryNode/pull/2 </td>
         <td> Approved and reviewed update of Bump bl from 2.2.0 to 2.2.1</td>
     </tr>
   <tr>
-        <td> Code Review</td>
+        <td> Code Review  & Discussion</td>
         <td>https://github.com/ChicoState/PantryNode/pull/3</td>
         <td> Reviewed update of Bump ini from 1.3.5 to 1.3.8</td>
     </tr>
   <tr>
-        <td> Code Review</td>
+        <td> Code Review  & Discussion</td>
         <td>https://github.com/ChicoState/PantryNode/pull/4</td>
         <td> Reviewed update of Bump lodash from 4.17.15 to 4.17.21</td>
     </tr>
   <tr>
-        <td> Code Review</td>
+        <td> Code Review  & Discussion</td>
         <td>https://github.com/ChicoState/PantryNode/pull/5</td>
         <td> Reviewed update of Bump normalize-url from 4.5.0 to 4.5.1</td>
     </tr>
    <tr>
-        <td> Code Review</td>
+        <td> Code Review  & Discussion</td>
         <td>https://github.com/ChicoState/PantryNode/pull/6</td>
         <td> Reviewed update of Bump glob-parent from 5.1.1 to 5.1.2</td>
     </tr>
   <tr>
-        <td> Code Review</td>
+        <td> Code Review  & Discussion</td>
         <td>https://github.com/ChicoState/PantryNode/pull/8</td>
         <td> Reviewed the update of the bump tar from 4.4.13 to 4.4.19</td>
     </tr>
   <tr>
-        <td> Code Review</td>
+        <td> Code Review  & Discussion</td>
         <td>https://github.com/ChicoState/PantryNode/pull/10</td>
         <td>Reviewed the update of Bump qs, body-parser and express</td>
     </tr>
     <tr>
-        <td> Code Review</td>
+        <td> Code Review  & Discussion</td>
         <td>https://github.com/ChicoState/PantryNode/pull/12</td>
         <td>Closed PR for Update of Bump mongoose from 5.9.11 to 5.13.15</td>
     </tr>
@@ -81,7 +81,7 @@ My testing efforts ensured that the Feed component aligned with the project's re
         </td>
     </tr>
     <tr>
-        <td>Research</td>
+        <td>Research  & Discussion</td>
         <td>https://github.com/ChicoState/PantryNode/issues/20</td>
         <td> Research regarding the difference in package.json and package-lock.json with team members- Manohar Mendan, Rohot Raut, Sachin Prasad</td>
     </tr>
