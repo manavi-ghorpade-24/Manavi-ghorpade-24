@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning __Cloud Computing, Swift, Full stack web devlopement, Algorithms and complexity
 - 💬 Ask me about __Cloud Engineering (AWS), CI/CD, Software Devlopment, Solution architect__
-- 📫 How to reach me: mughorpade@csuchico.edu
+
 
 <!---
 Manavi-ghorpade/Manavi-ghorpade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
