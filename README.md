@@ -99,7 +99,7 @@ You can click the Preview link to take a look at your changes.
             <a href=""><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg" width="70" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="70" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" width="70" height="40"/></a>
-            <a href=""><img src="https://github.com/todogroup/todogroup.org/blob/main/static/img/logo_vmware.svg" width="70" height="40"/></a>
+            </a>
             <!-- <a href=""><img src="https://worldvectorlogo.com/download/sublime-text.svg"/></a> -->
         </td>
     </tr>
