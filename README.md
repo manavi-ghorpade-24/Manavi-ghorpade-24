@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Manavi Uttam Ghorpade 
 
-- 🌱 I’m currently learning __Cloud Computing, Swift, Full stack web devlopement, Algorithms and complexity
-- 💬 Ask me about __Cloud Engineering (AWS), CI/CD, Software Devlopment, Solution architect__
+- 🌱 I’m currently learning __Compiler development and Generative AI
+- 💬 Ask me about __Cloud Engineering (AWS), CI/CD, Software Devlopment, AI__
 
 
 <!---
