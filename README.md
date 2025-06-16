@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h2> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" /> Portfolio</h2>
-<a  width="50" height="40" href="https://manavi-ghorpade.github.io/manavighorpade.github.io/" >Portfolio</a><br>
+<a  width="50" height="40" href="https://manavi-ghorpade.github.io/manavighorpade/" >Portfolio</a><br>
  
 
 <h2><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" /> My publications</h2>
