@@ -110,18 +110,18 @@ You can click the Preview link to take a look at your changes.
 <table>
     <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=Manavi-ghorpade&row=3&column=4&no-bg=true"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=Manavi-ghorpade-24&row=3&column=4&no-bg=true"/>
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manavi-ghorpade"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manavi-ghorpade-24"/>
         </td> 
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=Manavi-ghorpade&count_private=true&show_icons=true&theme=tokyonight"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=Manavi-ghorpade-24&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manavi-ghorpade&langs_count=10&layout=compact&hide=php,scss,gherkin,freemarker,xslt,tsql,ruby"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manavi-ghorpade-24&langs_count=10&layout=compact&hide=php,scss,gherkin,freemarker,xslt,tsql,ruby"/>
         </td>
     </tr>
 </table>
