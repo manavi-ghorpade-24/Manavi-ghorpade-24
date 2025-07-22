@@ -110,7 +110,7 @@ You can click the Preview link to take a look at your changes.
 <table>
     <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=Manavi-ghorpade-24&row=3&column=4&no-bg=true"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=manavi-ghorpade-24&row=3&column=4&no-bg=true"/>
         </td>
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manavi-ghorpade-24"/>
