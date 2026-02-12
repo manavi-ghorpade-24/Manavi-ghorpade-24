@@ -105,15 +105,4 @@ You can click the Preview link to take a look at your changes.
     </tr>
 </table>
 
-<h2> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="50" height="40" />My GitHub Stats </h2>
 
-<table>
-    <tr>
-     <td>
-            <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manavi-ghorpade-24&langs_count=10&layout=compact&hide=php,scss,gherkin,freemarker,xslt,tsql,ruby"/></a>
-            <a href=""><img src="https://github-readme-stats.vercel.app/api?username=Manavi-ghorpade-24&count_private=true&show_icons=true&theme=tokyonight"/> </a>
-    </td>
-   </tr>
-      
-  
-</table>
