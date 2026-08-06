@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Manavi, This is my personal github profile
 
-- I’m currently learning __Compiler development and Generative AI
-- Ask me about __Cloud Engineering (AWS), CI/CD, Software Devlopment, and AI__
-
+- I’m currently learning AI Agents + MCP + Security
 
 <!---
 Manavi-ghorpade/Manavi-ghorpade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
