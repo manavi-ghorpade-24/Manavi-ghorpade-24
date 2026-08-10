@@ -1,6 +1,9 @@
-# 👋 Hi, I’m Manavi, This is my personal github profile
+# Good day, I’m Manavi
 
 - I’m currently learning AI Agents + MCP + Security
+- more details - manavi.page
+- otherwise reach out via email
+- 🌐 I'm also on every other platform on the internet, go find me there.
 
 <!---
 Manavi-ghorpade/Manavi-ghorpade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
