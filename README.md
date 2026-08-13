@@ -1,4 +1,4 @@
-# Good day, I’m Manavi
+# Greetings, I’m Manavi
 
 - If you’re here, you probably found something I built.
 - Currently learning AI Agents + MCP + Security
